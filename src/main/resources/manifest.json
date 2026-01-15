@@ -1,0 +1,7 @@
+{
+  "Group": "com.dolphindalt",
+  "Name": "MyPlugin",
+  "Version": "0.1.0",
+  "Description": "A sample plugin",
+  "Main": "com.dolphindalt.MyPlugin"
+}
